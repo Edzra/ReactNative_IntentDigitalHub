@@ -1,0 +1,13 @@
+com/react_intent_digital_hub/MyAppPackage.java
+ com.react_intent_digital_hub.MyAppPackage
+com/react_intent_digital_hub/BuildConfig.java
+ com.react_intent_digital_hub.BuildConfig
+com/react_intent_digital_hub/IntentDigitalHubNativeModule.java
+ com.react_intent_digital_hub.IntentDigitalHubNativeModule
+com/react_intent_digital_hub/MainApplication.java
+ com.react_intent_digital_hub.MainApplication
+ com.react_intent_digital_hub.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/react_intent_digital_hub/MainActivity.java
+ com.react_intent_digital_hub.MainActivity
